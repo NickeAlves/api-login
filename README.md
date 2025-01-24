@@ -159,16 +159,18 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-### 📜 License
+## 📝 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+All rights reserved [Nicolas Alves©](https://www.linkedin.com/in/nicolasdevback)
 
 ---
 
 ## 🇧🇷 Versão em Português
 
 Este projeto é uma API de autenticação de usuários utilizando **Java** com **Spring Boot** e **Hibernate** para gerenciamento de banco de dados.
+
 ---
+
 ### ✨ Funcionalidades
 
 - 📝 Registro de novos usuários.
